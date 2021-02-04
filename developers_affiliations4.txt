@@ -4205,6 +4205,8 @@ somesh2905: somesh2905!users.noreply.github.com
 somnathr: somnath.roy!sandisk.com
 	SanDisk until 2017-06-01
 	Samsung Electronics Co. Ltd. from 2017-06-01
+SomtochiAma: somtochionyekwere!gmail.com, somtochi!weave.works
+	Weaveworks from 2020-12-01
 sonant: sonant!users.noreply.github.com
 	Acsour until 2017-05-01
 	Reksoft from 2017-05-01 until 2019-05-01
